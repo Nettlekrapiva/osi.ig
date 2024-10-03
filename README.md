@@ -1,3 +1,8 @@
+И краткий инструктаж по запуску:
+
+$ python main.py -h 
+$ python -u user 
+$ python -u user -p  
 <p align="center">
   <img src="https://raw.githubusercontent.com/th3unkn0n/OSI.IG/master/.lib/20191103_233944.jpg" width="300" height="120">
 </p>
